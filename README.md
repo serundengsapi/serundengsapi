@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Abdan Mukhithon Alkayyis
-- 👀 I’m interested Cyberscurity
-- 🌱 I’m currently Programming Language
+- 👀 I’m a Cybersecurity Enthusiast
 - 📫 abnid1337@gmail.com
